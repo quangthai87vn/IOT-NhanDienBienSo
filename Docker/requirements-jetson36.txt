@@ -1,0 +1,9 @@
+# ~/IOT/Docker/requirements-jetson36.txt
+numpy==1.19.4
+imutils==0.5.4
+pillow==8.4.0
+tqdm==4.64.1
+matplotlib==3.3.4
+pandas==1.1.5
+onnx==1.10.2
+
