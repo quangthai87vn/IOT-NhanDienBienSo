@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=ALPR OCR (RTSP -> TEXT)
+Exec=gnome-terminal -- bash -lc "~/IOT/Project/run_ocr_rtsp.sh rtsp://192.168.50.2:8554/mac"
+Terminal=false
+Icon=accessories-text-editor
+

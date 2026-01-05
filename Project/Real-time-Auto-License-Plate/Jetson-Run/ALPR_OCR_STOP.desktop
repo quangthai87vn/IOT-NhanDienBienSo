@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=ALPR OCR STOP
+Exec=gnome-terminal -- bash -lc "~/IOT/Project/stop_ocr.sh"
+Terminal=false
+Icon=process-stop
+

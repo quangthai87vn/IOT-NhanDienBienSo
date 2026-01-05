@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=ALPR START (CSI)
+Exec=gnome-terminal -- bash -lc "~/IOT/Project/run_alpr_csi.sh"
+Terminal=false
+Icon=utilities-terminal
+

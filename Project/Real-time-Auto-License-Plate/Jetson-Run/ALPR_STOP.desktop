@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=ALPR STOP
+Exec=gnome-terminal -- bash -lc "~/IOT/Project/stop_alpr_csi.sh"
+Terminal=false
+Icon=process-stop
+
